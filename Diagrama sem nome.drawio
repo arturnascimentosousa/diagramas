@@ -1,9 +1,33 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.1">
   <diagram name="Página-1" id="LHggh24vplGuXp8-CVkP">
-    <mxGraphModel>
+    <mxGraphModel dx="711" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5Qmz3pqrUuKGQG-wKy-N-1" value="Livro" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="276" y="645" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Qmz3pqrUuKGQG-wKy-N-2" value="Empréstimo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="645" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Qmz3pqrUuKGQG-wKy-N-3" value="Avaliação" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="735" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Qmz3pqrUuKGQG-wKy-N-4" value="Usuário" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="276" y="735" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Qmz3pqrUuKGQG-wKy-N-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Qmz3pqrUuKGQG-wKy-N-6" target="5Qmz3pqrUuKGQG-wKy-N-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Qmz3pqrUuKGQG-wKy-N-6" value="Usuário" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="241" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Qmz3pqrUuKGQG-wKy-N-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Qmz3pqrUuKGQG-wKy-N-7" target="5Qmz3pqrUuKGQG-wKy-N-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Qmz3pqrUuKGQG-wKy-N-7" value="Livro&lt;div&gt;Empréstimo&lt;/div&gt;&lt;div&gt;Avaliação&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
